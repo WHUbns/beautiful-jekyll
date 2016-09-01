@@ -25,13 +25,12 @@ description:
 navbar-links:
   加入我们:
     - QQ群: "http://jq.qq.com/?_wv=1027&k=2FTtTRX"
-    - 剑灵门派: "/"
     # - GitHub Pages: "https://pages.github.com/"
   联系作者: "yingzhou2016@qq.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.JPG"
 
 # --- Footer options --- #
 
